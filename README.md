@@ -1,3 +1,4 @@
+**DATE : 19.03.2025**
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -70,6 +71,7 @@ assign Bo = ~a & b;
 endmodule
 ```
 Developed by:BARATHRAJ K
+
 RegisterNumber:212224230033
 
 **RTL Schematic**
